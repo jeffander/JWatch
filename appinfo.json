@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "29c08c94-d0b4-45a7-8f4b-f03c4e147eac",
+    "appKeys": {},
+    "longName": "JWatch",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "JWatch",
+    "companyName": "jeff_ander@yahoo.com",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
